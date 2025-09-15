@@ -74,7 +74,7 @@ Identify_Customer_Segments_project/
 # (Optional) create a virtual environment first
 pip install -r requirements.txt
 ```
-##📌 Requirements
+## 📌 Requirements
 
 pandas
 
