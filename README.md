@@ -88,5 +88,5 @@ seaborn
 
 (You can generate a requirements.txt with these libraries.)
 
-##📜 License
+## 📜 License
 For educational use only. Data provided by Bertelsmann Arvato Analytics.
